@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  color: #343a40;
+  line-height: 1;
+}
+
+.calc-container {
+  margin: 10px 10px;
+}
+
+.calc-container span {
+  font-weight: 600;
+}
+
+.calc-container div {
+  margin-bottom: 5px;
+}
+
+.calc-payment, .btn-reset {
+  margin-top: 20px;
+  padding: 5px;
+}
